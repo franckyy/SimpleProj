@@ -6,6 +6,7 @@ public class Class1 {
 		System.out.println("coucou");
 
 		System.out.println("les cloonnards");
+		System.out.println("Allez vous faire foutre !");
 	}
 
 }
