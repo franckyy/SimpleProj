@@ -7,6 +7,7 @@ public class Class1 {
 		System.out.println("les bons amis");
 
 		System.out.println("merci les bons amis");
+		System.out.println("Allez vous faire foutre !");
 	}
 
 }
